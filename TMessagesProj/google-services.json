@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "734635901951",
-    "firebase_url": "https://ongram.firebaseio.com",
-    "project_id": "ongram",
-    "storage_bucket": "com.ongram.appspot.com"
+    "project_number": "*****",
+    "firebase_url": "*****",
+    "project_id": "kurdgram",
+    "storage_bucket": "*****"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:734635901951:android:2e379c05cec4a890",
+        "mobilesdk_app_id": "******",
         "android_client_info": {
-          "package_name": "com.ongram"
+          "package_name": "com.kurdgram"
         }
       },
       "oauth_client": [
         {
-          "client_id": "734635901951-97m2u2im2u91smjc85enu23gntt34du6.apps.googleusercontent.com",
+          "client_id": "******",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA7b049FAh_aA4n2P0qOm6iQ92YW-pdsCg"
+          "current_key": "*******"
         }
       ],
       "services": {
